@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+  <title>UW-Madison Parking Availability</title>
+  <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+<script>
+
+  function handleSearch() {
+      let searchInput = document.getElementById('search').value;
+  }
+
+</script>
+  
+<style>
+body {
+  background-color: #dadfe1;
+}
+
+div {
+  background-color: #f7f7f7;
+  width: 550px;
+  border: 10px solid #c5050c;
+  padding: 20px;
+  margin: auto;
+}
+
+h1 {
+  font-family: 'Montserrat';
+  font-size: 45px;
+  font-weight: 800;
+  color: #c5050c;
+  text-align: center;
+}
+
+p {
+  color: #282728;
+  font-family: 'Montserrat';
+  font-size: 20px;
+}
+
+hr {
+    height: 3px;
+    border-width: 0;
+    background-color: #c5050c;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+</style>
+</head>
+<body>
+
+<img src='https://pages.cs.wisc.edu/~nicoleb/uw-crest-web.png' alt='UW-Madison Crest' height='150' class='center'>
+<h1 class='center'>UW Madison Parking Availability</h1>
+<div><p>Welcome! Please use the search bar below to look up a parking lot on the UW-Madison campus and see its current parking availability.</p>
+  <br>
+  <form method='GET' action=''>
+    <input type='text' placeholder='Search for a lot...' name='search'>
+    <button onclick='handleSearch();' type='submit'><i class='fa fa-search'></i></button>
+  </form>
+</div>
+<br>
+<div><p> Here're results for your desired lot and other lots nearby...</p>

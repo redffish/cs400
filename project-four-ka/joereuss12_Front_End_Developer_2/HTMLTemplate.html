@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<script>
+	function printParkingLot() {
+		
+	}
+
+	function handleSearch() {
+		let input = document.getElementById('search').value;
+		input = input.toLowerCase();
+	}
+
+</script>
+
+<style>
+	
+	body {
+		background-color: #dadfe1;
+	}
+	
+	#header {
+		text-align:center;
+		color: #FFFFFF;
+		font-size: 45px;
+		background-color: #c5050c;
+	}
+
+	#description {
+		background-color: #dadfe1;
+		width: 550px;
+		border: 10px solid #c5050c;
+		padding: 10px;
+		margin: auto;
+		text-align: center;
+	}
+
+	* {
+		box-sizing: border-box;
+	}
+
+	form.search input[type=text] {
+		padding: 10px;
+		font-size: 17px;
+		border: 1px solid grey;
+		float: left;
+		width: 80%;
+		background: #f1f1f1;
+	}
+
+	form.search button {
+		float: left;
+		width: 20%;
+		padding: 10px;
+		background: #ddd;
+		color: black;
+		font-size: 17px;
+		border: 1px solid grey;
+		border-left: none;
+		cursor: pointer;
+	}
+
+	form.search button:hover {
+		background: #ccc;
+	}
+
+
+</style>
+</head>
+<body>
+
+	<h1 id="header">UW Madison Parking Availability</h1>
+	<div id="description"><p>Thank you for using the parking availability app! Please type in a parking lot located on the UW Madison campus to check
+		its current parking availability.</p></div>
+	<br>
+
+	<form class="search" method="GET" style="margin:auto;max-width:300px">
+		<input type="text" placeholder="Search.." name="search">
+		<button onclick="handleSearch();" type="submit"><img src="searchIcon.png" height=15px><i class="fa fa-search"></i></button>
+
+	</form>
+	
+
+</body>
+</html>

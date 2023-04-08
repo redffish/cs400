@@ -1,0 +1,97 @@
+Address,Lot,Capacity,Occupied,Nearby1,Nearby2,Nearby3
+445 Easterday Lane,4,478,0,125,124,123
+430 N. Park Street,5,244,39,105,110,107
+600 N. Park Street,6,450,186,9,10,8
+325 N. Brooks Street,7,200,200,110,61,112
+640 N. Park Street,8,203,43,10,6,9
+955 Observatory Drive,9,173,133,10,6,8
+1001 Observatory Drive,10,327,193,9,6,8
+1125 Observatory Drive,11,211,0,115,23,10
+1850 Linden Drive,12,84,2,39,120,37
+1217 W Johnson Street,13,24,0,56,113,22
+1525 Engineering Drive,14,69,0,17,114,80
+48 N. Randall Ave,16,99,0,18,54,113
+1525 Engineering Drive,17,31,0,14,114,18
+1420 Monroe Street,18,314,314,16,19,17
+15 Breese Terrace,19,89,89,18,16,17
+1390 University Avenue,20,327,17,28,21,27
+1221 Linden Drive,21,55,0,20,116,28
+1220 W. Johnson Street,22,399,399,116,13,115
+1220 Linden Drive,23,448,448,21,116,11
+1188-1565 Observatory Drive,26,224,137,27,23,28
+1330 Linden Drive,27,27,23,26,28,30
+465 Lorch Street,28,135,135,20,30,27
+21 N. Park Street,29,456,0,136,78,88
+450 Henry Mall,30,361,361,28,38,27
+130 N. Mills Street,33,182,182,45,53,51
+1480 Tripp Circle,34,366,366,127,59,65
+655 Babcock Drive,35,143,46,121,36,38
+1645 Observatory Drive,36,35,14,120,121,40
+651 Elm Drive,37,199,133,58,12,120
+645 Babcock Drive,38,480,480,30,121,36
+1811 Linden Drive,39,96,47,93,12,41
+1655 Linden Drive,40,82,15,41,120,36
+1820 University Avenue,41,490,439,93,40,39
+965 W Dayton Street,44,416,270,61,92,112
+115 N. Mills Street,45,338,24,33,92,81
+301 N. Lake Street,46,474,0,83,138,69
+120 East Campus Mall,48,199,135,78,87,88
+33 N. Charter Street,50,290,281,51,81,33
+30 N. Mills Street,51,224,2,81,50,33
+155 N. Charter Street,53,264,264,33,54,86
+112 N. Charter Street,54,305,1,53,113,33
+255 N. Charter Street,56,383,144,86,13,53
+1975 Willow Drive,58,337,124,37,12,67
+2125 Observatory Drive,59,493,110,72,64,65
+801 Walnut Street,60,349,189,85,76,127
+930 Clymer Place,61,46,29,112,92,44
+525 Easterday Lane,62,194,0,67,124,125
+1655 Highland Avenue,63,74,74,65,127,59
+606 Walnut Street,64,62,13,64,127,85
+608 Walnut Street,65,430,39,62,123,124
+280 N Frances Street,69,421,183,46,83,138
+503 Walnut Street,72,76,30,59,64,124
+Highland Avenue,74,93,24,95,82,139
+1620 Highland Avenue,75,426,426,95,74,85
+2501 University Bay Drive,76,25,25,135,60,82
+110 East Campus Mall,78,35,35,48,88,87
+1308 W. Dayton Street,80,389,214,113,13,54
+1280 Capital Court & 40 N. Charter Street,81,123,99,51,33,50
+1450 Highland Avenue,82,287,220,74,139,95
+314 N. Frances Street,83,388,0,138,46,69
+2245 Observatory Drive,85,183,173,127,60,65
+210 N. Mills Street,86,303,0,56,53,45
+W Dayton Street,87,264,0,88,48,78
+105 East Campus Mall,88,118,107,78,87,48
+105 N Frances Street,91,334,240,94,88,87
+1015 Clymer Place,92,252,230,61,45,112
+1850 University Avenue,93,121,68,39,41,123
+115 N Frances Street,94,334,334,91,88,87
+750 Highland Avenue,95,325,150,74,75,139
+652 N Lake Street,101,61,6,102,132,6
+550 N Lake Street,102,68,0,101,132,107
+475 N Park Street,105,66,55,5,110,107
+825 W Johnson Street,106,137,0,112,107,61
+820 University Avenue,107,272,272,105,132,5
+960 University Avenue,110,279,79,5,7,105
+910 Clymer Place,112,122,122,61,92,106
+1300 W. Dayton Street,113,428,256,80,13,54
+1420 Engineering Drive,114,165,0,14,20,80
+445 N Charter Street,115,303,194,116,22,11
+440 N Charter Street,116,283,22,115,22,21
+1455 Observatory Drive,120,378,378,36,12,40
+622 Babcock Drive,121,418,0,35,36,38
+1975 Linden Drive,123,369,117,67,4,125
+465 Easterday Lane,124,86,0,125,4,62
+455 Easterday Lane,125,320,134,124,4,62
+702 Walnut Street,127,371,0,34,85,65
+2003 University Bay Drive,130,193,49,131,135,76
+1100-1200 Block University Bay Drive,131,163,28,130,135,82
+408 N Lake Street,132,50,26,107,102,105
+910 Highland Terrace,133,42,0,134,137,139
+930 Highland Terrace,134,158,0,133,137,139
+2415 University Bay Drive,135,352,102,76,82,74
+23 N. Park Street,136,480,480,29,78,48
+1625 Highland Avenue,137,222,0,139,133,134
+314 N Frances Street,138,397,0,83,46,69
+1625 Highland Avenue,139,471,471,137,82,74
