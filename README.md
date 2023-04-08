@@ -1,2 +1,1 @@
-# cs400
-CS 400: Programming III
+# CS 400: Programming III
